@@ -1,0 +1,14 @@
+{
+  "name": "com.outsystems.experts.podprojectfixiosversion",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.outsystems.experts.podprojectfixiosversion",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}
