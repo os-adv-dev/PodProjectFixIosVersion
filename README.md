@@ -15,7 +15,7 @@ To install the Cordova plugin, use the following command:
 cordova plugin add https://github.com/os-adv-dev/cordova-plugin-pod-target-fix#cordova-ios-7.0
 
 ### As a dependency of another plugin (Plugin.xml)
-<dependency id="outsystems.experts.podprojectfixiosversion" url="https://github.com/os-adv-dev/cordova-plugin-pod-target-fix" commit="cordova-ios-7.0" />
+`<dependency id="outsystems.experts.podprojectfixiosversion" url="https://github.com/os-adv-dev/cordova-plugin-pod-target-fix" commit="cordova-ios-7.0" />`
 
 ## Usage
 Once installed, the plugin seamlessly integrates into your Cordova project workflow. It automatically updates the minimum deployment target of the Pod target whenever the minimum deployment target is modified in the main iOS project.
